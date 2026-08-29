@@ -146,7 +146,7 @@ export default function Home() {
     <div className="site-frame" dir={direction}>
       <header className="topbar">
         <a className="brand-lockup" href="#top" aria-label="Two Shots home" onClick={() => setMenuOpen(false)}>
-          <img src="./manus-storage/two-shots-target-mark_bbaeeb36.png" alt="" className="brand-mark" />
+          <img src="./manus-storage/two-shots-target-mark.png" alt="" className="brand-mark" />
           <span className="brand-name">TWO SHOTS</span>
         </a>
 
@@ -188,7 +188,7 @@ export default function Home() {
 
       <main id="top">
         <section className="hero-section" aria-labelledby="hero-title">
-          <img className="hero-art" src="./manus-storage/two-shots-hero-operations_6004804c.jpg" alt="" aria-hidden="true" />
+          <img className="hero-art" src="./manus-storage/two-shots-hero-operations.jpg" alt="" aria-hidden="true" />
           <div className="hero-overlay" aria-hidden="true" />
           <div className="target-grid hero-grid" aria-hidden="true" />
 
@@ -213,7 +213,7 @@ export default function Home() {
             transition={{ duration: 0.65, delay: 0.16, ease: [0.23, 1, 0.32, 1] }}
           >
             <span className="logo-stage-label">TWO SHOTS / EST. 2026</span>
-            <img src="./manus-storage/two-shots-logo_378234ee.jfif" alt="Two Shots logo" className="hero-logo" />
+            <img src="./manus-storage/two-shots-logo.jfif" alt="Two Shots logo" className="hero-logo" />
             <span className="logo-stage-note">ONE IN THE HEART. ONE IN THE HEAD.</span>
           </motion.div>
 

@@ -181,7 +181,7 @@ h1 em, h2 em { color: var(--crimson); font-family: var(--font-display); font-sty
 .contact-target { position: absolute; top: 10%; left: -5%; color: rgba(225,20,26,.18); transform: scale(9); transform-origin: center; }
 .contact-topline, .contact-content, .email-grid, .email-note { position: relative; z-index: 1; }
 .contact-topline { justify-content: flex-start; color: rgba(255,255,255,.8); }
-.contact-topline::before { content: ""; width: 16px; height: 16px; background: url('../manus-storage/two-shots-target-mark_bbaeeb36.png') center / contain no-repeat; }
+.contact-topline::before { content: ""; width: 16px; height: 16px; background: url('../manus-storage/two-shots-target-mark.png') center / contain no-repeat; }
 .contact-content { display: grid; grid-template-columns: minmax(0, 1fr) minmax(235px, .54fr); align-items: end; gap: 2rem; margin: 2rem 0 3.7rem; }
 .contact-content .eyebrow { color: white; }
 .contact-content h2 em { color: var(--crimson-hot); }
