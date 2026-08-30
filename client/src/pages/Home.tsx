@@ -51,7 +51,7 @@ const translations = {
     general: "استفسارات عامة",
     partnerships: "شراكات",
     footerTagline: "ONE IN THE HEART. ONE IN THE HEAD.",
-    foundedBy: "تأسيس وتطوير: ياسين الشافعي × أحمد زايد",
+    foundedBy: "تأسيس وإدارة: ياسين الشافعي × أحمد زايد × أسامة إسلام",
     languageLabel: "English",
   },
   en: {
@@ -84,7 +84,7 @@ const translations = {
     general: "GENERAL INQUIRIES",
     partnerships: "PARTNERSHIPS",
     footerTagline: "ONE IN THE HEART. ONE IN THE HEAD.",
-    foundedBy: "Founded & developed by Yaseen Elshafey × Ahmed Zayed",
+    foundedBy: "Founded & managed by Yaseen Elshafey × Ahmed Zayed × Osama Islam",
     languageLabel: "العربية",
   },
 } as const;
